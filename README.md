@@ -74,10 +74,15 @@ Use the `BLANK_README.md` to get started.
 ### Built With
 
 • Developed the frontend with React.js and Redux. Integrated redux-form and React-Material-UI.
+
 • Integrated moment.js and axios with npm; used Express for middleware and reducers.
+
 • Implemented MVC backend with Node.js on MongoDB.
+
 • Developed the JWT based authentication for Login/Register.
+
 • Used BrowserRouter for pagination, Context for Search/Filter, and Recharts for monthly application.
+
 • Conducted Unit, Integration and E2E system testing and debugging with Jest
 <p align="right">(<a href="#top">back to top</a>)</p>
 
